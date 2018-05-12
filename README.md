@@ -27,7 +27,8 @@
       
    }
   
-  // Note : If inside function with retrn keyword in it skipes next code on function. And use if without return is for just skipping if statement's element. 
-  
-  
+
+   
   ````
+  
+  *  Note : If inside function with retrn keyword in it skipes next code on function. And use if without return is for just skipping if statement's element.
